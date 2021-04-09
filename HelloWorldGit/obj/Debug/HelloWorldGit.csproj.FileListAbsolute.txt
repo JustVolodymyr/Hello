@@ -1,0 +1,7 @@
+E:\Навчання\КПЗ\2 семестр\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.exe.config
+E:\Навчання\КПЗ\2 семестр\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.exe
+E:\Навчання\КПЗ\2 семестр\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.pdb
+E:\Навчання\КПЗ\2 семестр\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.csprojAssemblyReference.cache
+E:\Навчання\КПЗ\2 семестр\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.csproj.CoreCompileInputs.cache
+E:\Навчання\КПЗ\2 семестр\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.exe
+E:\Навчання\КПЗ\2 семестр\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.pdb
